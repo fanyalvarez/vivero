@@ -1,0 +1,141 @@
+.navbar .navbar-brand img{
+    height:50px;
+}
+
+.card{
+    height: 218px;
+    width: 218px;
+    text-align: center;
+    margin:auto;
+    border: 15px;
+}
+
+
+.btn-primary{   
+    text-transform: uppercase;
+    background-color: green; 
+    width: 420px;   
+    cursor: pointer;
+    border-color: green;
+    display: table-cell;
+}
+.card-img-top{
+
+    height: 218px;
+    width: 218x;
+    object-fit: cover;
+}
+.title-blog{
+    text-align: center
+}
+.text-blog{
+ text-align: justify;   
+}
+div container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 45px;   
+    text-transform: uppercase;
+    background-color: green; 
+    width: 420px;   
+    cursor: pointer;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: .5rem 1rem;
+
+}
+.form {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.formulario_form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form input {
+    width: 90%;
+    height: 30px;
+}
+.form button {
+    padding: 0.5em 1em;
+    border: none;
+    background: green;
+    cursor: pointer;
+    border-color: green; 
+}
+.contact-form{  
+    width: 460px; 
+    height: auto;
+    margin: 80px auto;
+    border-radius: 10px;  
+    padding-top: 30px;
+    padding-bottom: 20px;  
+    background-color: #fbfbfb; 
+    padding-left: 30px; 
+}
+input{
+    background-color: #fbfbfb; 
+    width: 350px; 
+    height: 40px; 
+    border-radius: 5px;  
+    border-color: green; 
+    margin-bottom: 10px; 
+    padding: .5rem 1rem;
+} 
+
+
+textarea{
+    background-color: #fbfbfb; 
+    width: 350px; 
+    height: 150px; 
+    border-color: green; 
+    margin-bottom: 20px; ;
+}
+
+label{
+    display: block; 
+    float: center;  
+} 
+h1{
+    font-size: 39px;  
+    text-align: letf; 
+    padding-bottom: 20px; 
+    color: green;
+} 
+h3{
+    font-size: 16px; 
+    padding-bottom: 30px;
+    color: #0e0e0e; 
+    font-style: italic  
+}
+h4 {
+   font-style: italic 
+}
+p{
+    color: rgb(51, 182, 80);
+    text-align:center;
+    font-weight: bold;
+    font-size: 250%;
+    font-style: italic
+}
+footer{
+    background-color:#e6f3e9!important;
+}
+.iconos{
+    color: seagreen;
+}
+
